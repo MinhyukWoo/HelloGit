@@ -1,3 +1,5 @@
 Hello Git!
 
 This line is added at clone repository.
+
+Pull content of remote repository.
