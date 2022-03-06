@@ -1,3 +1,5 @@
 Hello Git!
 
 This line is added at clone repository.
+
+Record the state of commit index.
